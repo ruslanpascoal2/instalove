@@ -1,0 +1,5 @@
+fastapi
+instagrapi
+uvicorn
+redis
+httpx
